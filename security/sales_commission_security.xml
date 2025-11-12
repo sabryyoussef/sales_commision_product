@@ -16,7 +16,7 @@
         <field name="name">Commission lines: manager full access</field>
         <field name="model_id" ref="model_sales_commission_line"/>
         <field name="domain_force">[(1, '=', 1)]</field>
-        <field name="groups" eval="[(4, ref('sales_commission_product.group_sales_commission_manager'))]"/>
+        <field name="groups" eval="[(4, ref('sales_commision_product.group_sales_commission_manager'))]"/>
     </record>
 </odoo>
 

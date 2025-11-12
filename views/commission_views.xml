@@ -79,6 +79,6 @@
               name="Commission Report"
               parent="sale.menu_sale_report"
               action="action_sales_commission_report"
-              groups="sales_commission_product.group_sales_commission_manager"/>
+              groups="sales_commision_product.group_sales_commission_manager"/>
 </odoo>
 

@@ -31,5 +31,6 @@ Compute and report sales commissions based on paid customer invoices and credit 
 4. Drill into the tree view for detail or export pivot data.
 
 ## Documentation
-See `USER_GUIDE.md` for a full walkthrough of configuration, access management, and troubleshooting tips.
+- **USER_GUIDE.md** - Full walkthrough of configuration, access management, and usage
+- **TROUBLESHOOTING.md** - Comprehensive guide to errors encountered and their fixes
 

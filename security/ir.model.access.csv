@@ -1,4 +1,4 @@
 "id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-"access_sales_commission_line_manager","access.sales.commission.line.manager","model_sales_commission_line","sales_commission_product.group_sales_commission_manager","1","1","1","1"
-"access_sales_commission_service_manager","access.sales.commission.service.manager","model_sales_commission_service","sales_commission_product.group_sales_commission_manager","1","1","1","1"
+"access_sales_commission_line_manager","access.sales.commission.line.manager","model_sales_commission_line","sales_commision_product.group_sales_commission_manager","1","1","1","1"
+"access_sales_commission_service_manager","access.sales.commission.service.manager","model_sales_commission_service","sales_commision_product.group_sales_commission_manager","1","1","1","1"
 
