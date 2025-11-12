@@ -15,6 +15,5 @@
         "views/commission_views.xml",
     ],
     "installable": True,
-    "application": False,
-    "license": "OEEL-1",
+    "application": True,
 }
